@@ -1,10 +1,10 @@
 # Advanced-SQL-Exercises
 A collection of advanced SQL exercises demostrating data cleaning, transformation, and analytical skills using NULL functions, date operations, and aggregations.
 
- Overview
-  This repository contains a collection of advanced SQL exercises designed to strengthen data analysis and querying skills. The focus is on handling real-world       data scenarios such as missing values, date manipulation, and data aggregation.
+ Overview:	
+  This repository contains a collection of advanced SQL exercises designed to strengthen data analysis and querying skills. The focus is on handling real-world      data scenarios such as missing values, date manipulation, and data aggregation.
   
- Objectives
+ Objectives:	
 	•	Practice advanced SQL concepts
 	•	Improve problem-solving using data
 	•	Prepare for technical interviews and real-world data tasks
